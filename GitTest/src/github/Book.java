@@ -13,7 +13,7 @@ import javax.persistence.Id;
 
 /**
  *
- * @author Fang
+ * @author Dong
  */
 @Entity
 public class Book implements Serializable {
